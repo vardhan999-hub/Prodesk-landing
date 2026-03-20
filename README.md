@@ -1,12 +1,20 @@
 # Prodesk IT — Digital Agency Landing Page
 
-A responsive and modern landing page built as part of the **Prodesk IT Week 1 Mission** (2026 Internship Program).
+A modern, responsive landing page built as part of the **Prodesk IT Week 1 Mission (2026 Internship Program)**.
+
+This project focuses on clean UI design, responsiveness, accessibility, and interactive frontend features using HTML, CSS, and JavaScript.
 
 ---
 
 ## 🔗 Live Demo
 
-[View Live Site](#) <!-- Replace with your Netlify URL after deployment -->
+👉 https://prodesk-landing-harsha.netlify.app/
+
+---
+
+## 📂 GitHub Repository
+
+👉 https://github.com/vardhan999-hub/Prodesk-landing
 
 ---
 
@@ -20,21 +28,21 @@ A responsive and modern landing page built as part of the **Prodesk IT Week 1 Mi
 
 ## ✅ Features
 
-### Core Features
+### 🔹 Core Features
 - Responsive navbar using Flexbox
-- Mobile hamburger menu
+- Mobile-friendly hamburger menu
 - Hero section with call-to-action
 - Services section using CSS Grid
 - Footer with social links
 - Built using pure CSS (no frameworks)
 
-### Advanced Features
+### 🔹 Advanced Features
 - Dark / Light mode toggle
 - Theme persistence using `localStorage`
 - Interactive UI (hover and click effects)
 - Sticky navigation bar
 
-### Additional Enhancements
+### 🔹 Additional Enhancements
 - Scroll animations using IntersectionObserver
 - Accessibility improvements (focus styles, ARIA attributes)
 - `prefers-reduced-motion` support
@@ -48,7 +56,7 @@ A responsive and modern landing page built as part of the **Prodesk IT Week 1 Mi
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 (Flexbox + Grid)
+- CSS3 (Flexbox, Grid, Variables)
 - Vanilla JavaScript
 - Google Fonts (Syne, DM Sans)
 
@@ -69,24 +77,29 @@ prodesk-landing/
 
 ## 🚀 How to Run Locally
 
-1. Download or clone the repository
+1. Clone or download the repository
 2. Open `index.html` in any browser
 
 ---
 
 ## 📦 Deployment
 
-Deployed using Netlify (link will be updated after deployment)
+Deployed using Netlify:
+👉 https://prodesk-landing-harsha.netlify.app/
 
 ---
 
 ## 📘 Learning Outcome
 
-Built a fully responsive landing page while improving skills in layout design, JavaScript interactions, and accessibility.
+- Built a fully responsive landing page from scratch
+- Improved understanding of Flexbox and CSS Grid
+- Implemented theme switching using CSS variables
+- Learned scroll-based animations using IntersectionObserver
+- Applied accessibility and performance best practices
 
 ---
 
 ## 👨‍💻 Author
 
-**Tadigadapa Harshavardhan**  
+**Tadigadapa Harshavardhan**
 Prodesk IT Internship — 2026
